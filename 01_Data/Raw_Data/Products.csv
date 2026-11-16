@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Category,List_Price,Unit_Cost,Product_Status
+P001,Headphones,Electronics,2330.5,1414.68,Active
+P002,Keyboard,Electronics,2716.14,1672.74,Active
+P003,Mouse,electronics,3460.87,2519.09,Active
+P004,Speaker,Electronics,7630.4,5131.22,Active
+P005,Webcam,Electronics,1978.38,1176.85,Active
+P006,Charger,electronics,1480.79,1084.46,Active
+P007,Power Bank,Electronics,3111.29,1539.69,Active
+P008,Monitor,Electronics,11507.83,5322.32,Active
+P009,USB Hub,Electronics,9642.69,5823.84,Active
+P010,Smart Watch,Electronics,1414.85,731.29,Active
+P011,Router,Electronics,2644.48,1930.5,Active
+P012,Tablet Stand,Electronics,11366.23,5387.26,Active
+P013,T-Shirt,clothing,2501.42,1357.09,Active
+P014,Jeans,Clothing,1923.41,936.23,Active
+P015,Jacket  ,Clothing,952.46,482.98,Active
+P016,Hoodie,Clothing,121.94,83.19,Active
+P017,Shirt,Clothing,1468.78,705.21,Active
+P018,Dress,Clothing,297.55,234.86,Active
+P019,Socks,Clothing,1017.64,569.89,Active
+P020,Sweater,Clothing,2215.49,1172.97,Active
+P021,Shorts,Clothing,2992.89,1401.06,Active
+P022,Leggings,Clothing,388.25,202.93,Active
+P023,Cap,Clothing,509.64,237.47,Active
+P024,Scarf  ,Clothing,1857.04,1165.41,Active
+P025,Kettle,Home & Kitchen,296.23,230.02,Active
+P026,Blender,Home & Kitchen,2488.6,1383.45,Active
+P027,Lamp,Home & Kitchen,186.29,135.62,Active
+P028,Cookware Set,Home & Kitchen,1871.22,1421.09,Active
+P029,Storage Box,Home & Kitchen,1896.93,1418.16,Active
+P030,Bedsheet,Home & Kitchen,2256.01,1389.19,Active
+P031,Pillow,Home & Kitchen,1436.05,875.14,Active
+P032,Water Bottle,Home & Kitchen,1343.3,641.24,Active
+P033,Toaster,Home & Kitchen,576.65,355.15,Active
+P034,Coffee Maker  ,home & kitchen,1202.76,574.49,Active
+P035,Wall Clock,Home & Kitchen,1097.64,856.18,Active
+P036,Towel,Home & Kitchen,2734.35,1347.8,Active
+P037,Shampoo,Beauty,565.76,363.41,Active
+P038,Conditioner,Beauty,685.65,369.78,Active
+P039,Face Wash,beauty,421.38,226.26,Active
+P040,Moisturizer,Beauty,562.81,368.67,Active
+P041,Sunscreen,Beauty,1931.4,949.13,Active
+P042,Body Lotion,Beauty,878.03,436.92,Active
+P043,Lip Balm,Beauty,762.74,516.44,Active
+P044,Serum,Beauty,187.89,140.1,Active
+P045,Soap Pack,Beauty,2986.93,1465.48,Active
+P046,Hair Oil,Beauty,1808.95,1017.42,Active
+P047,Face Mask,Beauty,1898.61,1154.91,Active
+P048,Deodorant,Beauty,752.61,373.75,Active
+P049,Yoga Mat,Sports & Outdoors,1406.52,865.22,Active
+P050,Dumbbells,Sports & Outdoors,1805.34,1286.92,Active
+P051,Skipping Rope,Sports & Outdoors,687.17,347.91,Active
+P052,Football,Sports & Outdoors,1468.66,908.08,Active
+P053,Water Flask,Sports & Outdoors,2089.23,1207.65,Active
+P054,Gym Bag,Sports & Outdoors,297.06,159.58,Active
+P055,Resistance Band,Sports & Outdoors,404.42,254.85,Active
+P056,Tennis Racket,Sports & Outdoors,2298.69,1415.02,Active
+P057,Camping Light,Sports & Outdoors,511.87,318.57,Active
+P058,Cycling Gloves,Sports & Outdoors,606.05,447.27,Active
+P059,Sports Towel,Sports & Outdoors,1879.17,1441.58,Active
+P060,Foam Roller,Sports & Outdoors,868.47,398.08,Active
